@@ -7,3 +7,6 @@ Requires:
 SDL2-2.0.5
 SDL2_image-2.0.1
 SDL2_ttf-2.0.14
+
+Demo video:
+https://www.youtube.com/watch?v=DpOk5BaR4Yw
